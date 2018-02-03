@@ -4,24 +4,12 @@
 
 # `iOS`
 
-Download MDM v1.39
+- Download MDM v1.39
 
-Download MDM v1.39
+- Download MDM v1.39
 
 Profiles
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- Download MDM v1.39
 
 [Link](url) and ![Image](src)
 ```
