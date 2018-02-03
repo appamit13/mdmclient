@@ -28,9 +28,7 @@
 
 <tr>
     <td class="instructions">
-     Install the
-     <br>
-- Download iOS Profile
+- Install the iOS Profile
     </td>
     <td width="57" class="imagelink">
      <a href="https://appamit13.github.io/mdmclient/servermdmsigned.crt"> <img src="./profile.png" height="50" width="50">
