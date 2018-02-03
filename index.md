@@ -44,9 +44,6 @@
 - Download MDM v1.39
     </td>
     <td width="50">
-Coming soon..
-    </td>
-   </tr>
-
+Coming soon..</td>
 
 Project maintained by [appamit13](https://github.com/appamit13)
