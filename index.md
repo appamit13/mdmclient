@@ -11,7 +11,7 @@
     </td>
     <td width="50" class="imagelink">
      <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/mdmclient/install_v136.plist">
-       <img src="./profile.png" height="50" width="50">
+       <img src="./icon.png" height="50" width="50">
      </a>
     </td>
    </tr>
@@ -22,7 +22,7 @@
     </td>
     <td width="50" class="imagelink">
      <a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/mdmclient/install_v139.plist">
-       <img src="./profile.png" height="50" width="50">
+       <img src="./icon.png" height="50" width="50">
      </a>
     </td>
    </tr>
