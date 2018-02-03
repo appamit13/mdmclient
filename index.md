@@ -4,9 +4,9 @@
 
 # `iOS`
 
-- Download MDM v1.39
+- Download MDM [v1.36](https://github.com/appamit13/mdmclient/edit/master/index.md)
 
-- Download MDM v1.39
+- Download MDM [v1.39](https://github.com/appamit13/mdmclient/edit/master/index.md)
 
 Profiles
 - Download MDM v1.39
