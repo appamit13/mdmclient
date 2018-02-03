@@ -47,5 +47,7 @@
 Coming soon..
     </td>
    </tr>
-<td><td>
+
+
+
 Project maintained by [appamit13](https://github.com/appamit13)
