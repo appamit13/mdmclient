@@ -4,10 +4,10 @@
 
 # `iOS`
 
-- Download MDM [v1.36](https://github.com/appamit13/mdmclient/edit/master/index.md)
+- Download MDM [v1.36](<a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/mdmclient/install_v136.plist"></a>)
 
-- Download MDM [v1.39](https://github.com/appamit13/mdmclient/edit/master/index.md)
 
+- Download MDM [v1.39](<a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/mdmclient/install_v139.plist"></a>)
 Profiles
 - Download MDM v1.39
 
