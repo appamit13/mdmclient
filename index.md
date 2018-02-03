@@ -14,6 +14,7 @@
      </a>
     </td>
    </tr>
+     
    <tr>
     <td class="instructions">
 - Download MDM v1.39
@@ -24,7 +25,7 @@
     </td>
    </tr>
    <tr>
-     
+
    <tr>
     <td class="instructions">
 - Install the iOS Profile
@@ -34,4 +35,4 @@
      </a>
     </td>
    </tr>
-  </tbody></table>
+     </tbody></table>
