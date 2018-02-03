@@ -3,8 +3,6 @@
 [editor on GitHub](https://github.com/appamit13/mdmclient/edit/master/index.md)
 
 # `iOS`
-  <table>
-   <tbody>
    <tr>
     <td class="instructions">
 - Download MDM v1.36
@@ -34,4 +32,3 @@
      </a>
     </td>
    </tr>
-     </tbody></table>
