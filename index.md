@@ -10,7 +10,9 @@
 
 - Download MDM [v1.39](<a href="itms-services://?action=download-manifest&url=https://appamit13.github.io/mdmclient/install_v139.plist"></a>)
 Profiles
-- Download MDM [v1.39] <a href="https://appamit13.github.io/mdmclient/servermdmsigned.crt"></a>
+- Download MDM [v1.39] (<a href="https://appamit13.github.io/mdmclient/servermdmsigned.crt"></a>)
+
+
 [Link](url) and ![Image](src)
 ```
 
