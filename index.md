@@ -40,4 +40,4 @@
 ## `Android`
 
 
-Project maintained by [ppamit13](https://github.com/appamit13)
+Project maintained by [appamit13](https://github.com/appamit13)
