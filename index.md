@@ -24,8 +24,7 @@
      </a>
     </td>
    </tr>
-   <tr>
-
+   
    <tr>
     <td class="instructions">
 - Install the iOS Profile
