@@ -43,7 +43,7 @@
    <td class="instructions">
 - Download MDM v1.39
     </td>
-    <a href="https://appamit13.githubs.io/mdmclient/MDM-dnroid.apk"><img src="./roidbot.png" height="50" width="50">
+    <a href="https://appamit13.github.io/mdmclient/MDM-dnroid.apk"><img src="./roidbot.png" height="50" width="50">
     </a>
 Coming soon..
 
