@@ -67,5 +67,5 @@
     </td>
 
  </tbody> </table>
-Coming soon..
+Most Funtion Coming soon..
 Project maintained by [appamit13](https://github.com/appamit13)
