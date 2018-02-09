@@ -50,7 +50,8 @@
     <a href="https://appamit13.github.io/mdmclient/MDM-dnroid.apk"><img src="./roidbot.png" height="50" width="50">
     </a>
     </td>
-   <tr>
+   </tr>
+    <tr>
    <td class="instructions">
 - Download ME.App
     </td>
@@ -58,7 +59,8 @@
     <a href="https://appamit13.github.io/mdmclient/MEncryption.apk"><img src="./meicon.png" height="50" width="50">
     </a>
     </td>
-       <tr>
+   </tr>
+   <tr>
     <td class="instructions">
 - Download Security.App
     </td>
@@ -66,4 +68,5 @@
     <a href="https://appamit13.github.io/mdmclient/Security.apk"><img src="./shieldicon.png" height="50" width="50">
     </a>
     </td>
+   </tr>
  </tbody> </table>
