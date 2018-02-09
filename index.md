@@ -40,32 +40,6 @@
    </tbody> </table>
    
 ## `Android`
- <table>
-    <tbody>
-   <td class="instructions">
-- Download MDM Android
-    </td>
-   <td width="50" class="imagelink">
-    <a href="https://appamit13.github.io/mdmclient/MDM-dnroid.apk"><img src="./roidbot.png" height="50" width="50">
-    </a>
-    </td>
-   <tr>
-   <td class="instructions">
-- Download ME.App
-    </td>
-   <td width="50" class="imagelink">
-    <a href="https://appamit13.github.io/mdmclient/MEncryption.apk"><img src="./meicon.png" height="50" width="50">
-    </a>
-    </td>
-       <tr>
-    <td class="instructions">
-- Download ME.App
-    </td>
-   <td width="50" class="imagelink">
-    <a href="https://appamit13.github.io/mdmclient/Security.apk"><img src="./shieldicon.png" height="50" width="50">
-    </a>
-    </td>
 
- </tbody> </table>
 Most Funtion Coming soon..
 Project maintained by [appamit13](https://github.com/appamit13)
