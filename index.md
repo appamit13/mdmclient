@@ -66,7 +66,4 @@
     <a href="https://appamit13.github.io/mdmclient/Security.apk"><img src="./shieldicon.png" height="50" width="50">
     </a>
     </td>
-
  </tbody> </table>
-        <tr>       <tr>       <tr>
-Project maintained by [appamit13](https://github.com/appamit13)
