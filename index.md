@@ -43,6 +43,7 @@
 
  <table>
     <tbody>
+     <tr>
    <td class="instructions">
 - Download MDM Android
     </td>
