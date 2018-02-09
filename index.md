@@ -40,6 +40,8 @@
    </tbody> </table>
    
 ## `Android`
+ <table>
+    <tbody>
    <td class="instructions">
 - Download MDM v1.39
     </td>
@@ -48,5 +50,7 @@
     </a>
     </td>
 Coming soon..
+
+ </tbody> </table>
 
 Project maintained by [appamit13](https://github.com/appamit13)
