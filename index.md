@@ -72,4 +72,4 @@
    </tr>
  </tbody> </table>
  
- Project maintained by appamit13[https://appamit13.github.io/]
+ Project maintained by appamit13<a href="https://appamit13.github.io/"></a>
