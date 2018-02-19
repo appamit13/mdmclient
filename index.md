@@ -2,7 +2,7 @@
 
 
 ## `About`
-Welcome to the MDM download Website! :)
+Welcome to the MDM download website! :)
 ## `iOS`
  <table>
     <tbody>
