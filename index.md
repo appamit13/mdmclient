@@ -42,7 +42,6 @@ Welcome to the MDM download website! :)
     </td>
     <td width="50" class="imagelink">
      Coming soon...
-     
     </td>
    </tr>
    </tbody> </table>
