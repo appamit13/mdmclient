@@ -41,8 +41,8 @@ Welcome to the MDM download website! :)
 - iOS MDM Crack app
     </td>
     <td width="50" class="imagelink">
-     <a href="#">Coming soon...
-     </a>
+     Coming soon...
+     
     </td>
    </tr>
    </tbody> </table>
